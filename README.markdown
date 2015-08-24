@@ -17,8 +17,8 @@ OSCON 2013, "More Instantly Better Vim" presentation.  Damian's vim setup is
 
 ## Why I did what I did?
 I [customize](http://github.com/Traap/dotfiles.git) my OSX and Linux environment
-exclusively using Haskell and [pathogen.vim](https://github.com/tpope/vim-pathogen)
-so I needed a bundle with precisely one feature not an entire repository full of
-excellent vim plugins.
+exclusively using [Haskell](https://www.haskell.org) and 
+[pathogen.vim](https://github.com/tpope/vim-pathogen) so I needed a bundle with 
+precisely one feature not an entire repository full of excellent vim plugins.
 
 Traap
