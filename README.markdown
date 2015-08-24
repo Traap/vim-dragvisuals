@@ -4,14 +4,14 @@ Drag Visual allows you to drag or duplicate a visual selection.
 
 
 ## Installation
-Copy and past for [pathogen.vim](https://github.com/tpope/vim-pathogen):
+Copy and paste for [pathogen.vim](https://github.com/tpope/vim-pathogen):
 
 cd ~/.vim/bundle
-git clone git://github.com/traap/vim-dragvisuals.git
+git clone git://github.com/Traap/vim-dragvisuals.git
 
 ## Promotion
-I created dragvisua.vim [pathogen.vim](https://github.com/tpope/vim-pathogen) 
-enabled bundle after watching [Damian Conewy](https://www.youtube.com/watch?v=aHm36-na4-4) 
+I created dragvisua.vim as a [pathogen.vim](https://github.com/tpope/vim-pathogen) 
+enabled bundle after watching [Damian Conway](https://www.youtube.com/watch?v=aHm36-na4-4) 
 OSCON 2013, "More Instantly Better Vim" presentation.  Damian's vim setup is
 [here](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup/blob/master/plugin/dragvisuals.vim).
 
