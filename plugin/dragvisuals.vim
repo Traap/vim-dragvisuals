@@ -44,10 +44,10 @@
 
 
 " If already loaded, we're done...
-if exists("loaded_dragvirtualblocks")
+if exists("g:loaded_dragvirtualblocks")
     finish
 endif
-let loaded_dragvirtualblocks = 1
+let g:loaded_dragvirtualblocks = 1
 
 " Preserve external compatibility options, then enable full vim compatibility...
 let s:save_cpo = &cpo
